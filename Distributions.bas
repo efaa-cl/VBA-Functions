@@ -3,6 +3,7 @@ Option Base 1
 Global Const Pi = 3.14159265358979
 
 Function Cumnorm(x As Double) As Double
+  'Comentario
   XAbs = Abs(x)
   If XAbs > 37 Then
     Cumnorm = 0
